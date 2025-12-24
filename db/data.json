@@ -1,0 +1,14 @@
+ [
+  { 
+    "id": 1, 
+    "nombre": "Milanesa con guarnición", 
+    "precio": 15000 },
+  { 
+    "id": 2, 
+    "nombre": "Raviolones con estofado", 
+    "precio": 16000 },
+  { 
+    "id": 3, 
+    "nombre": "Ensalada super", 
+    "precio": 8000 }
+]
